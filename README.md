@@ -1,2 +1,2 @@
-# SpineDemo
-A demo for using spine in AcornUI
+# TextDemo
+A demo for using text in AcornUI

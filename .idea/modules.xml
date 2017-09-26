@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$ACORNUI_HOME$/AcornGame/AcornGame.iml" filepath="$ACORNUI_HOME$/AcornGame/AcornGame.iml" group="AcornUi" />
+      <module fileurl="file://$ACORNUI_HOME$/AcornSpine/AcornSpine.iml" filepath="$ACORNUI_HOME$/AcornSpine/AcornSpine.iml" group="AcornUi" />
+      <module fileurl="file://$ACORNUI_HOME$/Tools/AcornTexturePacker/core/AcornTexturePackerCore.iml" filepath="$ACORNUI_HOME$/Tools/AcornTexturePacker/core/AcornTexturePackerCore.iml" group="AcornUi/Tools/TexturePacker" />
+      <module fileurl="file://$ACORNUI_HOME$/Tools/AcornTexturePacker/jvm/AcornTexturePackerJvm.iml" filepath="$ACORNUI_HOME$/Tools/AcornTexturePacker/jvm/AcornTexturePackerJvm.iml" group="AcornUi/Tools/TexturePacker" />
+      <module fileurl="file://$ACORNUI_HOME$/AcornUiCore/AcornUiCore.iml" filepath="$ACORNUI_HOME$/AcornUiCore/AcornUiCore.iml" group="AcornUi" />
+      <module fileurl="file://$ACORNUI_HOME$/AcornUiJsBackend/AcornUiJsBackend.iml" filepath="$ACORNUI_HOME$/AcornUiJsBackend/AcornUiJsBackend.iml" group="AcornUi" />
+      <module fileurl="file://$ACORNUI_HOME$/AcornUiLwjglBackend/AcornUiLwjglBackend.iml" filepath="$ACORNUI_HOME$/AcornUiLwjglBackend/AcornUiLwjglBackend.iml" group="AcornUi" />
+      <module fileurl="file://$ACORNUI_HOME$/AcornUtils/AcornUtils.iml" filepath="$ACORNUI_HOME$/AcornUtils/AcornUtils.iml" group="AcornUi" />
+      <module fileurl="file://$ACORNUI_HOME$/Tools/BuildTasks/BuildTasks.iml" filepath="$ACORNUI_HOME$/Tools/BuildTasks/BuildTasks.iml" group="AcornUi/Tools" />
+      <module fileurl="file://$PROJECT_DIR$/build/SpineDemoBuild.iml" filepath="$PROJECT_DIR$/build/SpineDemoBuild.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shell/core/SpineDemoCore.iml" filepath="$PROJECT_DIR$/Shell/core/SpineDemoCore.iml" group="SpineDemoShell" />
+      <module fileurl="file://$PROJECT_DIR$/Shell/js/SpineDemoJs.iml" filepath="$PROJECT_DIR$/Shell/js/SpineDemoJs.iml" group="SpineDemoShell" />
+      <module fileurl="file://$PROJECT_DIR$/Shell/jvm/SpineDemoJvm.iml" filepath="$PROJECT_DIR$/Shell/jvm/SpineDemoJvm.iml" group="SpineDemoShell" />
+    </modules>
+  </component>
+</project>
