@@ -10,4 +10,5 @@ To get started:
 
 - clone https://github.com/AcornUI/SpineDemo.git
 - Open the SpineDemo project
+- Build the SpineDemoBuild module
 - Run 'Run SpineDemoJvm' run configuration.
