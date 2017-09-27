@@ -9,4 +9,5 @@ To get started:
 - run the getDependencies.kts run configuration
 
 - clone https://github.com/AcornUI/SpineDemo.git
+- Open the SpineDemo project
 - Run 'Run SpineDemoJvm' run configuration.
